@@ -1,5 +1,5 @@
 === Annoying Hello World ===
-Contributors: raen
+Contributors: Boolex.com
 Tags: annoying, hello, world, hello world, troll
 Requires at least: 3.5
 Stable tag: 0.1
